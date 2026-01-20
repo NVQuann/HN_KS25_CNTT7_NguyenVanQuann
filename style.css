@@ -6,12 +6,12 @@
     background-color: white;
 }
 
-.pho-nha {
+.heading {
     background-color: white;
 }
 
 .header {
-    background-color: rgb(192,57,43);
+    background-color: #C0392B;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -20,17 +20,17 @@
 }
 
 .logo {
-    background-color: rgb(192,57,43);
+    background-color: #C0392B;
     font-size: 25px;
     font-weight: bold;
 }
 
 .nav {
-    background-color: rgb(192,57,43);
+    background-color: #C0392B;
 }
 
 .nav a {
-    background-color: rgb(192,57,43);
+    background-color: #C0392B;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     color: white; 
@@ -86,9 +86,10 @@
 
 .title { 
     background-color: white;
-    color: #b33939; 
+    color: #C0392B; 
     font-size: 32px; 
-    margin-bottom: 40px; 
+    margin-bottom: 40px;
+
 }
 
 .grid {
@@ -127,7 +128,7 @@
 }
 
 .price { 
-    color: #b33939; 
+    color: #C0392B; 
     font-weight: bold; 
     font-size: 20px; 
     margin-top: 10px; 
